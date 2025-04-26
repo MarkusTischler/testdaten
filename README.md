@@ -3,7 +3,7 @@ Warum und wieso gibt es auf meiner Webseite https://markus-tischler.com
 
 ### Die CSV mit 100.000.000 Einträgen zum Download:
 Download:
-http://downloads.markus-tischler.com/fiktive_personenliste_100000000.zip (5.8GB)
+https://downloads.karo-it.com/fiktive_personenliste_100000000.zip (5.8GB)
 
 ### Als Postgres pg_dump
 
@@ -13,13 +13,13 @@ pg_dump -d poc --format=directory --jobs=4 --file=/tmp/backup/poc
 tar -czvf /tmp/backup/poc_backup.tar.gz poc
 ```
 Download:
-http://downloads.markus-tischler.com/poc_backup_postgresql.tgz (6.8GB)
+https://downloads.karo-it.com/poc_backup_postgresql.tgz (6.8GB)
 
 
 ### Als Oracle DataPump Export 19c
-Details siehe Dump Logfile
-Download:
-http://downdloads.markus-tischler.com/poc_backup_oracle.tgz (7.4GB)
+Details siehe Dump Logfile <br>
+Download: 
+https://downloads.karo-it.com/poc_backup_oracle.tgz (7.4GB)
 
 ### Inhalt der Dumps
 ```sql
